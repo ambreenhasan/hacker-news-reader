@@ -27,4 +27,6 @@
 
 - (NSString *) daysAgo;
 
+- (NSString *) unixTimestampConverter;
+
 @end
