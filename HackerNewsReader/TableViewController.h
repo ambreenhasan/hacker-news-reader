@@ -10,14 +10,6 @@
 
 @interface TableViewController : UITableViewController
 
-//@property (strong, nonatomic) NSArray *designSection;
-//
-//@property (strong, nonatomic) NSArray *developmentSection;
-//
-//@property (strong, nonatomic) NSArray *mobileSection;
-//
-//@property (strong, nonatomic) NSArray *sections;
-
 @property (strong, nonatomic) NSMutableArray *blogPosts;
 
 @end
